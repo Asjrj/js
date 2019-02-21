@@ -1,0 +1,28 @@
+{
+	"transactions": [
+		{
+			"id": 901,
+			"user": 12,
+			"product": 222,
+			"time": "2019-02-11T10:15:46.164Z",
+			"type": "purchase",
+			"price": 123
+		},
+		{
+			"id": 902,
+			"user": 12,
+			"product": 224,
+			"time": "2019-02-12T12:15:46.164Z",
+			"type": "purchase",
+			"price": 300
+		},
+		{
+			"id": 903,
+			"user": 13,
+			"product": 222,
+			"time": "2019-02-14T13:15:46.164Z",
+			"type": "purchase",
+			"price": 123
+		}
+	]
+}

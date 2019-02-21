@@ -1,0 +1,44 @@
+{
+	"events": [
+		{
+			"id": 101,
+			"user": 12,
+			"product": 222,
+			"time": "2019-02-10T10:15:46.164Z",
+			"type": "Review",
+			"title": "Michaels title",
+			"description": "Michaels comment on Samsung XYZ",
+			"grade": 2
+		},
+		{
+			"id": 102,
+			"user": 12,
+			"product": 222,
+			"time": "2019-02-12T12:15:46.164Z",
+			"type": "Reclamation",
+			"title": "Bad Product",
+			"description": "It did not work",
+			"grade": 1
+		},
+		{
+			"id": 103,
+			"user": 12,
+			"product": 224,
+			"time": "2019-02-13T13:15:46.164Z",
+			"type": "Review",
+			"title": "Another title",
+			"description": "Review on Nokia N9",
+			"grade": 4
+		},
+		{
+			"id": 104,
+			"user": 13,
+			"product": 222,
+			"time": "2019-02-13T14:15:46.164Z",
+			"type": "Review",
+			"title": "Review title",
+			"description": "Review of Samsung XYZ ",
+			"grade": 3
+		}
+	]
+}

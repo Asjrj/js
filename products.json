@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 222,
+      "type": "Phone",
+      "make": "Samsung",
+      "model": "XYZ",
+      "price": 123,
+      "in-stock": 44,
+      "description": "Samsung XYZ kuvaus",
+      "nr-events": 7
+    },
+    {
+      "id": 223,
+      "type": "Phone",
+      "make": "Sony",
+      "model": "Z5",
+      "price": 234,
+      "in-stock": 55,
+      "description": "Sony Z5 kuvaus",
+      "nr-events": 8
+    },
+    {
+      "id": 224,
+      "type": "Phone",
+      "make": "Nokia",
+      "model": "N9",
+      "price": 345,
+      "in-stock": 33,
+      "description": "Nokia N9 kuvaus",
+      "nr-events": 9
+    }
+  ]
+}
